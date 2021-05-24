@@ -10,6 +10,7 @@
 
 # 截图
 ![image](https://user-images.githubusercontent.com/58851040/119315124-19e68f00-bca8-11eb-912c-ca0533791019.png)
+![image](https://user-images.githubusercontent.com/58851040/119316170-36cf9200-bca9-11eb-8480-b09ecea4f76d.png)
 ![image](https://user-images.githubusercontent.com/58851040/119315196-2f5bb900-bca8-11eb-8b82-e074c405be8e.png)
 ![image](https://user-images.githubusercontent.com/58851040/119315253-3d113e80-bca8-11eb-974f-fef074429f94.png)
 ![image](https://user-images.githubusercontent.com/58851040/119315406-603bee00-bca8-11eb-9263-0cdaa53d8d2e.png)
@@ -21,4 +22,3 @@
 ![image](https://user-images.githubusercontent.com/58851040/119315958-f6701400-bca8-11eb-8a67-868b62493459.png)
 ![image](https://user-images.githubusercontent.com/58851040/119315975-fd972200-bca8-11eb-835b-aa7425aa9e77.png)
 ![image](https://user-images.githubusercontent.com/58851040/119316031-0ab41100-bca9-11eb-9e0b-69bf2cbbffc3.png)
-
