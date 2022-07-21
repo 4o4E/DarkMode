@@ -6,6 +6,9 @@
 * 理论上支持全版本
 * 低版本可能出现名字显示错误的情况，但是不影响材质使用
 
+[![Downloads](https://img.shields.io/github/downloads/4o4E/DarkMode/total)](https://github.com/4o4E/DarkMode/releases/latest)
+[![Release](https://img.shields.io/github/v/release/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/releases)
+
 # 使用方法
 
 1. 下载材质包
