@@ -36,3 +36,9 @@
 
 ![pack](https://user-images.githubusercontent.com/58851040/119319174-ae52f080-bcac-11eb-8fe3-139048f7c3d5.png)
 
+# 更新日志
+
+```
+2021.05.24 发布
+2022.07.21 更新加载界面
+```
