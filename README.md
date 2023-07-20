@@ -11,7 +11,7 @@
 
 # 使用方法
 
-1. 下载材质包(1.19及以下下载`1.19-`的版本, 1.20及以上下载`1.20+`的版本)
+1. [下载](https://github.com/4o4E/DarkMode/releases/latest)材质包(1.19及以下下载`1.19-`的版本, 1.20及以上下载`1.20+`的版本)
 2. 将材质包放进 `游戏文件夹/.minecraft/resourcepacks` 文件夹
 3. 在游戏中 选项 -> 资源包 中选中本材质(优先级不一定要是最高的,只要没有其他带有GUI材质的材质包优先级比本材质高,GUI材质就不会被覆盖)
 4. 深色加载界面需要[optifine](https://www.optifine.net/downloads)才能显示, 暂不支持`iris`(可用mod代替)
